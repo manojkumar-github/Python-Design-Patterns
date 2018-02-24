@@ -1,4 +1,4 @@
-## Python Design Patterns
+### Python Design Patterns
 
 This repository maintains design patterns that are implemented in Python language. The following are the design patterns implemented:
 
