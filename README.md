@@ -2,14 +2,14 @@
 
 This repository maintains design patterns that are implemented in Python language. The following are the design patterns implemented:
 
-# Creational Design Patterns
+#### Creational Design Patterns
   - Abstract Factory Pattern
   - Builder Pattern
   - Factory Method Pattern
   - Prototype Pattern
   - Singleton Pattern
   
-# Structural Design Patterns
+#### Structural Design Patterns
   - Adapter Pattern
   - Bridge Pattern
   - Composite Pattern
@@ -17,7 +17,7 @@ This repository maintains design patterns that are implemented in Python languag
   - Facade Pattern
   - Flyweight Pattern
   - Proxy Pattern
-# Behaviroal Design Patterns
+#### Behaviroal Design Patterns
   - Chain of Responsibility Pattern
   - Command Pattern
   - Interpreter Pattern
