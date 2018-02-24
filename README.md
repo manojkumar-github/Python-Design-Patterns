@@ -17,6 +17,7 @@ This repository maintains design patterns that are implemented in Python languag
   - Facade Pattern
   - Flyweight Pattern
   - Proxy Pattern
+  
 #### Behaviroal Design Patterns
   - Chain of Responsibility Pattern
   - Command Pattern
